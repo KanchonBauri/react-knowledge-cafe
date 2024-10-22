@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "cover": "https://example.com/cover1.jpg",
+      "title": "The Future of Technology",
+      "author": "John Doe",
+      "author_img": "https://example.com/author1.jpg",
+      "posted_date": "2024-10-15",
+      "reading_time": 8
+    },
+    {
+      "id": 2,
+      "cover": "https://example.com/cover2.jpg",
+      "title": "Exploring the Depths of the Ocean",
+      "author": "Jane Smith",
+      "author_img": "https://example.com/author2.jpg",
+      "posted_date": "2024-09-20",
+      "reading_time": 12
+    },
+    {
+      "id": 3,
+      "cover": "https://example.com/cover3.jpg",
+      "title": "The Rise of Artificial Intelligence",
+      "author": "Mark Johnson",
+      "author_img": "https://example.com/author3.jpg",
+      "posted_date": "2024-10-05",
+      "reading_time": 10
+    },
+    {
+      "id": 4,
+      "cover": "https://example.com/cover4.jpg",
+      "title": "Healthy Living in a Modern World",
+      "author": "Emily Davis",
+      "author_img": "https://example.com/author4.jpg",
+      "posted_date": "2024-08-30",
+      "reading_time": 6
+    },
+    {
+      "id": 5,
+      "cover": "https://example.com/cover5.jpg",
+      "title": "The Future of Space Exploration",
+      "author": "Chris Lee",
+      "author_img": "https://example.com/author5.jpg",
+      "posted_date": "2024-09-10",
+      "reading_time": 9
+    }
+  ]
+  
